@@ -1,0 +1,7 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
+  "name": "libgeohash",
+  "version": "1.0.0",
+  "homepage": "https://github.com/simplegeo/libgeohash",
+  "description": "A pure C implementation of the Geohash algorithm."
+}
